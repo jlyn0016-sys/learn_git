@@ -1,4 +1,4 @@
-# learn about git an github
+# learn about git on github
 
 eeeeeeeeee
 
